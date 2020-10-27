@@ -12,12 +12,11 @@ header {
     right: 0;
     height: 50px;
     line-height: 50px;
-    background-color: #eee;
 }
 
 header * {
     display: inline;
-    height: 50px;
+    height: 30px;
 }
 
 header ul {
@@ -36,10 +35,10 @@ section {
     align-items: center;
     text-align: center;
     
-    background-size: cover; /* Add this line */
-    background-position: center center; /* Add this line */
-    background-repeat: no-repeat; /* Add this line */
-    background-attachment: fixed; /* Add this line */
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
 }
 
 #home .profile-img {
@@ -68,8 +67,6 @@ header a {
     text-decoration: none;
     color: black;
 }
-
-/* Add everything below here */
 
 #home {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://codetheweb.blog/assets/img/posts/steps-to-creating-a-website/field.jpg');
