@@ -67,6 +67,7 @@ section h3 {
 }
 #home .profile-img {
     border-radius: 50%;
+    height: 30vh;
 }
 
 #home h1 {
