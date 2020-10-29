@@ -83,6 +83,9 @@ section h3 {
 	text-align: left;
 	margin: auto;
 }
+#about a {
+	color: black;
+}
 
 #contact {
     background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('nicholaselder.github.io/30761300-BAA5-4C5F-B68B-321B6E9089FD.jpeg');
